@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agentic-commerce-ucp-catalog-resolver-skill",
+  "version": "1.0.0",
+  "description": "GenPark Agentic Commerce UCP Catalog Resolver - Resolves multi-merchant Universal Commerce Protocol catalogs with Pareto optimal pricing and SLA routing.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "agentic-commerce",
+    "ucp",
+    "catalog-resolver",
+    "autonomous-shopping",
+    "mcp"
+  ]
+}
